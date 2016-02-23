@@ -36,4 +36,4 @@ token.js
 /db
 
 #do not commit editor config files
-.idea
+.ideanode_modules/
